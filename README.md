@@ -4,5 +4,8 @@ In this project the user can write the name and age in the spaces intended for t
 The object is to demonstrate how the correct data is successfully recorded and the incorrect data is refuted.<br>
 <br>
 :white_check_mark: If I accept the system, the system writes. <br>
+![UserDetailsCorrect](https://user-images.githubusercontent.com/108309798/183679611-9793d8cf-3b72-4a96-9504-2d32103f068c.png)
+
+
 
 :x: If refused opens a pop-up stating that the data is incorrect.
